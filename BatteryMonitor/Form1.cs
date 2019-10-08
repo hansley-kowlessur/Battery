@@ -78,7 +78,7 @@ namespace BatteryMonitor
             batterylife *= 100.0f;
             return batterylife;
         }
-
+        //Test
         private void button2_Click(object sender, EventArgs e)
         {
             Refresh();
